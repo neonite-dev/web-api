@@ -1,2 +1,2 @@
 * linguist-vendored
-*.asp.net linguist-vendored=false
+*.net linguist-vendored=false
